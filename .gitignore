@@ -7,7 +7,6 @@ __pycache__/
 
 # Distribution / packaging
 .Python
-.venv/
 env/
 build/
 develop-eggs/
@@ -95,4 +94,15 @@ target/
 #/models/
 
 # exclude data from source control by default
-# /data/
+/data/
+
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> b369981 (19/03/2025)
+# exclude excel extensions
+*.xlsx
+*.xls
+*.csv
+*xlsm
